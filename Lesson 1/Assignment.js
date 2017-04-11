@@ -1,0 +1,11 @@
+var siblingName = prompt("What is your sibling name");
+alert(" sibling name is " + siblingName);
+var yourName = prompt(" What is your name ");
+alert(" your name is " + yourName);
+var siblingYear = prompt("which year your sibling was born");
+alert(" your sibling year is " + siblingYear);
+var yourBirthyear = prompt("what is your birthyear");
+alert(" your birth year is " + yourBirthyear);
+var yearsOlder = prompt("how many years you are older than your sibling");
+alert(" number of years you are older than your sibling is " + yearsOlder);
+alert(yourName + " is " + yearsOlder + " years older than " + siblingName); 
